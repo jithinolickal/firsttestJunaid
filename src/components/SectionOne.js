@@ -103,10 +103,10 @@ useEffect(()=>{
 								</div>
 								<div className="content">
 									<header ref={el=>ctnt1=el} className="align-center">
-										<p>maecenas sapien feugiat ex purus</p>
-										<h2>Lorem ipsum dolor</h2>
+										<p>I draw like other people bite their nails</p>
+										<h2>ART IS EVERYTHING!</h2>
 									</header>
-									<p ref={el=>ctnt11=el}> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
+									<p ref={el=>ctnt11=el}> "It is only by drawing often, drawing everything, drawing incessantly, that one fine day you discover, to your surprise, that you have rendered something in its true character." - Camille Pissarro</p>
 									<footer ref={el=>btn1=el} className="align-center">
 										<a href="#" className="button alt">Learn More</a>
 									</footer>
@@ -121,10 +121,10 @@ useEffect(()=>{
 								</div>
 								<div className="content">
 									<header ref={el=>ctnt2=el} className="align-center">
-										<p>mattis elementum sapien pretium tellus</p>
-										<h2>Vestibulum sit amet</h2>
+										<p>"Drawing is vision on paper."</p>
+										<h2>WORLD NEEDS ART!</h2>
 									</header>
-									<p ref={el=>ctnt22=el}> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
+									<p ref={el=>ctnt22=el}> "Learning to draw is really a matter of learning to see - to see correctly - and that means a good deal more than merely looking with the eye." - Kimon Nicolaides</p>
 									<footer ref={el=>btn2=el} className="align-center">
 										<a href="#" className="button alt">Learn More</a>
 									</footer>

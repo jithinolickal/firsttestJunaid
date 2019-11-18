@@ -51,8 +51,8 @@ function SectionThree() {
         <section ref={el=>app=el} id="three" className="wrapper style2">
 				<div className="inner">
 					<header className="align-center">
-						<p className="special">Nam vel ante sit amet libero scelerisque facilisis eleifend vitae urna</p>
-						<h2>Morbi maximus justo</h2>
+						<p className="special">"I just wanted to paint and sketch and tell stories by drawing"</p>
+						<h2>Collections</h2>
 					</header>
 					<div className="gallery">
 						<div ref={el=>i1=el}>
