@@ -6,8 +6,8 @@ function SectionTwo() {
         <section id="two" className="wrapper style3">
 				<div className="inner">
 					<header className="align-center">
-						<p>Nam vel ante sit amet libero scelerisque facilisis eleifend vitae urna</p>
-						<h2>Morbi maximus justo</h2>
+						<p>Pablo Picasso | Vincent van Gogh | Andrew Loomis | Balthus</p>
+						<h2>"Drawing is not what one sees but what one can make others see."</h2>
 					</header>
 				</div>
 			</section>
