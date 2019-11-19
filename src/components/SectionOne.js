@@ -4,6 +4,10 @@ import {TweenMax, TimelineMax, Power3} from 'gsap';
 import * as ScrollMagic from "scrollmagic"
 import { ScrollMagicPluginGsap } from "scrollmagic-plugin-gsap";
 
+import CSSPlugin from 'gsap/CSSPlugin';
+
+const C = CSSPlugin;
+
 ScrollMagicPluginGsap(ScrollMagic, TweenMax, TimelineMax);
 
 
