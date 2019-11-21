@@ -8,7 +8,7 @@ import A4 from "../carouselImages/sticker" */
 const A1 = require('../carouselImages/A1.jpg');
 const A2 = require('../carouselImages/ronyinsta.jpg');
 const A3 = require('../carouselImages/sreyas.jpg');
-const A4 = require('../carouselImages/sticker .jpg');
+const A4 = require('../carouselImages/sticker.jpg');
 
 
 export default () => (

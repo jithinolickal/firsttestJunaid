@@ -10,7 +10,7 @@ const C = CSSPlugin;
 
 ScrollMagicPluginGsap(ScrollMagic, TweenMax, TimelineMax);
 
-const C1 = require('../carouselImages/looney desktop.jpg');
+const C1 = require('../carouselImages/looney-desktop.jpg');
 const C2 = require('../carouselImages/NEWINSTA.jpg');
 const C3 = require('../carouselImages/IMG.jpeg');
 const C4 = require('../carouselImages/painting.jpg');
